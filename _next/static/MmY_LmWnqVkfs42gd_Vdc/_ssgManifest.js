@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fsearch","\u002Fall-modules","\u002F","\u002Fmodules\u002F[module]\u002F[version]","\u002Fmodules\u002F[module]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
