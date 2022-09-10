@@ -1,0 +1,5 @@
+{
+    "integrity": "sha256-humlA8lUQbCXreQSf9Cn4KDKLXUbF7SgefY7/4sEqfk=",
+    "strip_prefix": "bazel-lib-1.11.3",
+    "url": "https://github.com/aspect-build/bazel-lib/archive/refs/tags/v1.11.3.tar.gz"
+}
